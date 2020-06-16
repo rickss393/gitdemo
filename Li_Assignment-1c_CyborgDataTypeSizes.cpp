@@ -11,7 +11,6 @@ int main(){
         <<setw(10)<<"float"<<4<<endl
         <<setw(10)<<"double"<<8<<endl;
 
-
     return 0;
 
 }
