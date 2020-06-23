@@ -11,3 +11,7 @@ int main(){
 
     return 0;
 }
+/*
+The sum is 154
+The average is 30
+*/

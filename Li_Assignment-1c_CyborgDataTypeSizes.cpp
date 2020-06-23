@@ -14,3 +14,9 @@ int main(){
     return 0;
 
 }
+/*
+char      1
+int       4
+float     4
+double    8
+*/
