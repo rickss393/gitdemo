@@ -20,3 +20,29 @@ int main(){
     
     return 0;
 }
+/*
+   930
++  268
+---------
+Press any key to continue . . . 
+
+
+   930
++  268
+---------
+  1198
+PS C:\Users\Rick\Documents\gitdemo> 
+*/
+/*
+    41
++  266
+---------
+Press any key to continue . . .
+
+
+    41
++  266
+---------
+   307
+PS C:\Users\Rick\Documents\gitdemo>
+*/
